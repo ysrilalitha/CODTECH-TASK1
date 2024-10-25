@@ -43,6 +43,9 @@ To predict the housing prices in different areas of California based on a few in
 This project is a fundamental machine learning application, showcasing data preparation, model training, evaluation, and interpretation through a real-world scenario of housing price prediction. Let me know if you need further details or have any questions!
 
 OUTPUT:
+
+
+
 ![Screenshot 2024-10-25 173844](https://github.com/user-attachments/assets/00a1a631-deed-453c-87f5-75016243a9b2)
 
 
