@@ -41,3 +41,9 @@ To predict the housing prices in different areas of California based on a few in
 -The model can be expanded by adding more features or experimenting with different types of regression or machine learning algorithms if a higher level of accuracy is required.
 
 This project is a fundamental machine learning application, showcasing data preparation, model training, evaluation, and interpretation through a real-world scenario of housing price prediction. Let me know if you need further details or have any questions!
+
+OUTPUT:
+
+
+
+
