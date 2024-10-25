@@ -3,7 +3,7 @@ Company:CODTECH IT SOLUTIONS
 ID:CT08DS8733
 Domain:Machine Learning
 Duration:October to November 2024
-
+Mentor:Neela Santhosh kumar
 
 OVERVIEW OF THE PROJECT
 This project is about predicting housing prices in California using a Linear Regression model. We use California Housing dataset, which provides various features such as median income, house age, and average rooms per household. Here's an overview of the steps and objectives of the project:
